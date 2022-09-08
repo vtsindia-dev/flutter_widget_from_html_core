@@ -3,8 +3,7 @@ version: 0.8.5+3
 description: Flutter package to render html as widgets that focuses on correctness and extensibility.
 homepage: https://github.com/vtsindia-dev/flutter_widget_from_html_core.git
 environment:
-  flutter: ">=2.2.0"
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.16.0 <=3.0.0"
 dependencies:
   csslib: ^0.17.0
   flutter:
